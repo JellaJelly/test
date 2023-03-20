@@ -1,2 +1,5 @@
 # test
 cuman buat tes
+NAMA: NAZILLAH WAHIDYAH
+NRP: 162021045
+KELAS: BB
